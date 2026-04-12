@@ -20,7 +20,7 @@ The xView2 dataset provides ~2,200 pairs of 1024x1024 satellite images (pre/post
 
 The dataset is not included in this repository. To set up:
 
-1. Download the xView2 dataset from [xview2.org](https://xview2.org/)
+1. Download the xView2 dataset from [Kaggle](https://www.kaggle.com/datasets/tunguz/xview2-challenge-dataset-tier-3-data)
 2. Place it in the following structure:
 
 ```
