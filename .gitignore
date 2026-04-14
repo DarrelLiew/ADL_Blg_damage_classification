@@ -2,3 +2,6 @@ build_process_img_notebook.py
 *.pth
 *.pt
 data/
+archive/
+.venv/
+**/.venv/
